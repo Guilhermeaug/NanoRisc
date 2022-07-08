@@ -1,0 +1,8 @@
+*/*         
+!*.v 
+!*.mem     
+!.gitignore #unignore .gitignore
+
+*.out
+build/
+work/
