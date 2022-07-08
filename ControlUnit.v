@@ -10,6 +10,17 @@ module ControlUnit (
     output reg RegMemWrite
 );
 
+  initial begin
+    PCWrite = 1;
+    RegWrite = 0;
+    isSend = 0;
+    isBranch = 0;
+    ULAOp = 0;
+    MemWrite = 0;
+    MemRead = 0;
+    RegMemWrite = 0;
+  end
+
   always @(opcode) begin
     case (opcode)
       3'b000: begin  // sum
