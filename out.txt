@@ -1,0 +1,1861 @@
+Program Counter:   0
+PCin:   1
+Numero de ciclos:     1
+Clock: 1
+Instrucao completa: 01100000
+Opcode: 011
+Reg1: 00
+Reg2: 00
+Endereco: 00000
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: xx	MemWrite: 0	MemRead: 1	RegMemWrite: 1
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00000000
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000000 =>   0
+Registrador A ->           2: 00000000 =>   0
+Registrador A ->           3: 00000000 =>   0
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000000
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   1
+PCin:   2
+Numero de ciclos:     2
+Clock: 0
+Instrucao completa: 01100000
+Opcode: 011
+Reg1: 00
+Reg2: 00
+Endereco: 00000
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: xx	MemWrite: 0	MemRead: 1	RegMemWrite: 1
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00000000
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000000 =>   0
+Registrador A ->           2: 00000000 =>   0
+Registrador A ->           3: 00000000 =>   0
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000000
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   1
+PCin:   2
+Numero de ciclos:     3
+Clock: 1
+Instrucao completa: 00110001
+Opcode: 001
+Reg1: 10
+Reg2: 00
+Endereco: 10001
+Bit Zero: 1
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000000 =>   0
+Registrador A ->           3: 00000000 =>   0
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000000
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   2
+PCin:   3
+Numero de ciclos:     4
+Clock: 0
+Instrucao completa: 00110001
+Opcode: 001
+Reg1: 10
+Reg2: 00
+Endereco: 10001
+Bit Zero: 1
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000000 =>   0
+Registrador A ->           3: 00000000 =>   0
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000000
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   2
+PCin:   3
+Numero de ciclos:     5
+Clock: 1
+Instrucao completa: 00010010
+Opcode: 000
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000000 =>   0
+Registrador A ->           3: 00000000 =>   0
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000000
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   3
+PCin:   4
+Numero de ciclos:     6
+Clock: 0
+Instrucao completa: 00010010
+Opcode: 000
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 00000000 =>   0
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000000
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   3
+PCin:   4
+Numero de ciclos:     7
+Clock: 1
+Instrucao completa: 11110010
+Opcode: 111
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 1	isBranch: 0	ULAOp: xx	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 1
+Saidas dos MUXS
+Seleciona o registrador de escrita: 01
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 00000000 =>   0
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000000
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   4
+PCin:   5
+Numero de ciclos:     8
+Clock: 0
+Instrucao completa: 11110010
+Opcode: 111
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 1	isBranch: 0	ULAOp: xx	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 1
+Saidas dos MUXS
+Seleciona o registrador de escrita: 01
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 00000000 =>   0
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   4
+PCin:   5
+Numero de ciclos:     9
+Clock: 1
+Instrucao completa: 00111001
+Opcode: 001
+Reg1: 11
+Reg2: 00
+Endereco: 11001
+Bit Zero: 1
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 11
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 00000000 =>   0
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   5
+PCin:   6
+Numero de ciclos:    10
+Clock: 0
+Instrucao completa: 00111001
+Opcode: 001
+Reg1: 11
+Reg2: 00
+Endereco: 11001
+Bit Zero: 1
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 11
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 00000000 =>   0
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   5
+PCin:   6
+Numero de ciclos:    11
+Clock: 1
+Instrucao completa: 00011010
+Opcode: 000
+Reg1: 11
+Reg2: 01
+Endereco: 11010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 11
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 00000000 =>   0
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   6
+PCin:   7
+Numero de ciclos:    12
+Clock: 0
+Instrucao completa: 00011010
+Opcode: 000
+Reg1: 11
+Reg2: 01
+Endereco: 11010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 11
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   6
+PCin:   7
+Numero de ciclos:    13
+Clock: 1
+Instrucao completa: 00110001
+Opcode: 001
+Reg1: 10
+Reg2: 00
+Endereco: 10001
+Bit Zero: 1
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   7
+PCin:   8
+Numero de ciclos:    14
+Clock: 0
+Instrucao completa: 00110001
+Opcode: 001
+Reg1: 10
+Reg2: 00
+Endereco: 10001
+Bit Zero: 1
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000000 =>   0
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   7
+PCin:   8
+Numero de ciclos:    15
+Clock: 1
+Instrucao completa: 01100001
+Opcode: 011
+Reg1: 00
+Reg2: 00
+Endereco: 00001
+Bit Zero: 1
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: xx	MemWrite: 0	MemRead: 1	RegMemWrite: 1
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000000 =>   0
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   8
+PCin:   9
+Numero de ciclos:    16
+Clock: 0
+Instrucao completa: 01100001
+Opcode: 011
+Reg1: 00
+Reg2: 00
+Endereco: 00001
+Bit Zero: 1
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: xx	MemWrite: 0	MemRead: 1	RegMemWrite: 1
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000000 =>   0
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   8
+PCin:   9
+Numero de ciclos:    17
+Clock: 1
+Instrucao completa: 00010010
+Opcode: 000
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00001111
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00001111 =>  15
+Registrador A ->           2: 00000000 =>   0
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   9
+PCin:  10
+Numero de ciclos:    18
+Clock: 0
+Instrucao completa: 00010010
+Opcode: 000
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00001111
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00001111 =>  15
+Registrador A ->           2: 00001111 =>  15
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:   9
+PCin:  10
+Numero de ciclos:    19
+Clock: 1
+Instrucao completa: 11110110
+Opcode: 111
+Reg1: 10
+Reg2: 11
+Endereco: 10110
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 1	isBranch: 0	ULAOp: xx	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 1
+Saidas dos MUXS
+Seleciona o registrador de escrita: 11
+$mem: 00001111
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00001111 =>  15
+Registrador A ->           2: 00001111 =>  15
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00000000
+
+
+Program Counter:  10
+PCin:  11
+Numero de ciclos:    20
+Clock: 0
+Instrucao completa: 11110110
+Opcode: 111
+Reg1: 10
+Reg2: 11
+Endereco: 10110
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 1	isBranch: 0	ULAOp: xx	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 1
+Saidas dos MUXS
+Seleciona o registrador de escrita: 11
+$mem: 00001111
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00001111 =>  15
+Registrador A ->           2: 00001111 =>  15
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  10
+PCin:  11
+Numero de ciclos:    21
+Clock: 1
+Instrucao completa: 00110001
+Opcode: 001
+Reg1: 10
+Reg2: 00
+Endereco: 10001
+Bit Zero: 1
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00001111
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00001111 =>  15
+Registrador A ->           2: 00001111 =>  15
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  11
+PCin:  12
+Numero de ciclos:    22
+Clock: 0
+Instrucao completa: 00110001
+Opcode: 001
+Reg1: 10
+Reg2: 00
+Endereco: 10001
+Bit Zero: 1
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00001111
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00001111 =>  15
+Registrador A ->           2: 00000000 =>   0
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  11
+PCin:  12
+Numero de ciclos:    23
+Clock: 1
+Instrucao completa: 01100010
+Opcode: 011
+Reg1: 00
+Reg2: 01
+Endereco: 00010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: xx	MemWrite: 0	MemRead: 1	RegMemWrite: 1
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00001111
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00001111 =>  15
+Registrador A ->           2: 00000000 =>   0
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  12
+PCin:  13
+Numero de ciclos:    24
+Clock: 0
+Instrucao completa: 01100010
+Opcode: 011
+Reg1: 00
+Reg2: 01
+Endereco: 00010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: xx	MemWrite: 0	MemRead: 1	RegMemWrite: 1
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00001111
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00001111 =>  15
+Registrador A ->           2: 00000000 =>   0
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  12
+PCin:  13
+Numero de ciclos:    25
+Clock: 1
+Instrucao completa: 00010010
+Opcode: 000
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000101
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000101 =>   5
+Registrador A ->           2: 00000000 =>   0
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  13
+PCin:  14
+Numero de ciclos:    26
+Clock: 0
+Instrucao completa: 00010010
+Opcode: 000
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000101
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000101 =>   5
+Registrador A ->           2: 00000101 =>   5
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  13
+PCin:  14
+Numero de ciclos:    27
+Clock: 1
+Instrucao completa: 00010110
+Opcode: 000
+Reg1: 10
+Reg2: 11
+Endereco: 10110
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000101
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000101 =>   5
+Registrador A ->           2: 00000101 =>   5
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  14
+PCin:  15
+Numero de ciclos:    28
+Clock: 0
+Instrucao completa: 00010110
+Opcode: 000
+Reg1: 10
+Reg2: 11
+Endereco: 10110
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000101
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000101 =>   5
+Registrador A ->           2: 00000110 =>   6
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  14
+PCin:  15
+Numero de ciclos:    29
+Clock: 1
+Instrucao completa: 01100000
+Opcode: 011
+Reg1: 00
+Reg2: 00
+Endereco: 00000
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: xx	MemWrite: 0	MemRead: 1	RegMemWrite: 1
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00000101
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000101 =>   5
+Registrador A ->           2: 00000110 =>   6
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  15
+PCin:  16
+Numero de ciclos:    30
+Clock: 0
+Instrucao completa: 01100000
+Opcode: 011
+Reg1: 00
+Reg2: 00
+Endereco: 00000
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: xx	MemWrite: 0	MemRead: 1	RegMemWrite: 1
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00000101
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000101 =>   5
+Registrador A ->           2: 00000110 =>   6
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  15
+PCin:  16
+Numero de ciclos:    31
+Clock: 1
+Instrucao completa: 00110010
+Opcode: 001
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000110 =>   6
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  16
+PCin:  17
+Numero de ciclos:    32
+Clock: 0
+Instrucao completa: 00110010
+Opcode: 001
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000101 =>   5
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  16
+PCin:  17
+Numero de ciclos:    33
+Clock: 1
+Instrucao completa: 01011100
+Opcode: 010
+Reg1: 11
+Reg2: 10
+Endereco: 11100
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 10	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 11
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000101 =>   5
+Registrador A ->           3: 00000001 =>   1
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  17
+PCin:  18
+Numero de ciclos:    34
+Clock: 0
+Instrucao completa: 01011100
+Opcode: 010
+Reg1: 11
+Reg2: 10
+Endereco: 11100
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 10	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 11
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000101 =>   5
+Registrador A ->           3: 00000101 =>   5
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  17
+PCin:  15
+Numero de ciclos:    35
+Clock: 1
+Instrucao completa: 10110010
+Opcode: 101
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 1	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000101 =>   5
+Registrador A ->           3: 00000101 =>   5
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  15
+PCin:  15
+Numero de ciclos:    36
+Clock: 0
+Instrucao completa: 10110010
+Opcode: 101
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 1	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000101 =>   5
+Registrador A ->           3: 00000101 =>   5
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  15
+PCin:  16
+Numero de ciclos:    37
+Clock: 1
+Instrucao completa: 00110010
+Opcode: 001
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000101 =>   5
+Registrador A ->           3: 00000101 =>   5
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  16
+PCin:  17
+Numero de ciclos:    38
+Clock: 0
+Instrucao completa: 00110010
+Opcode: 001
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000100 =>   4
+Registrador A ->           3: 00000101 =>   5
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  16
+PCin:  17
+Numero de ciclos:    39
+Clock: 1
+Instrucao completa: 01011100
+Opcode: 010
+Reg1: 11
+Reg2: 10
+Endereco: 11100
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 10	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 11
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000100 =>   4
+Registrador A ->           3: 00000101 =>   5
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  17
+PCin:  18
+Numero de ciclos:    40
+Clock: 0
+Instrucao completa: 01011100
+Opcode: 010
+Reg1: 11
+Reg2: 10
+Endereco: 11100
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 10	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 11
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000100 =>   4
+Registrador A ->           3: 00010100 =>  20
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  17
+PCin:  15
+Numero de ciclos:    41
+Clock: 1
+Instrucao completa: 10110010
+Opcode: 101
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 1	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000100 =>   4
+Registrador A ->           3: 00010100 =>  20
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  15
+PCin:  15
+Numero de ciclos:    42
+Clock: 0
+Instrucao completa: 10110010
+Opcode: 101
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 1	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000100 =>   4
+Registrador A ->           3: 00010100 =>  20
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  15
+PCin:  16
+Numero de ciclos:    43
+Clock: 1
+Instrucao completa: 00110010
+Opcode: 001
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000100 =>   4
+Registrador A ->           3: 00010100 =>  20
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  16
+PCin:  17
+Numero de ciclos:    44
+Clock: 0
+Instrucao completa: 00110010
+Opcode: 001
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000011 =>   3
+Registrador A ->           3: 00010100 =>  20
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  16
+PCin:  17
+Numero de ciclos:    45
+Clock: 1
+Instrucao completa: 01011100
+Opcode: 010
+Reg1: 11
+Reg2: 10
+Endereco: 11100
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 10	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 11
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000011 =>   3
+Registrador A ->           3: 00010100 =>  20
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  17
+PCin:  18
+Numero de ciclos:    46
+Clock: 0
+Instrucao completa: 01011100
+Opcode: 010
+Reg1: 11
+Reg2: 10
+Endereco: 11100
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 10	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 11
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000011 =>   3
+Registrador A ->           3: 00111100 =>  60
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  17
+PCin:  15
+Numero de ciclos:    47
+Clock: 1
+Instrucao completa: 10110010
+Opcode: 101
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 1	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000011 =>   3
+Registrador A ->           3: 00111100 =>  60
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  15
+PCin:  15
+Numero de ciclos:    48
+Clock: 0
+Instrucao completa: 10110010
+Opcode: 101
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 1	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000011 =>   3
+Registrador A ->           3: 00111100 =>  60
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  15
+PCin:  16
+Numero de ciclos:    49
+Clock: 1
+Instrucao completa: 00110010
+Opcode: 001
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000011 =>   3
+Registrador A ->           3: 00111100 =>  60
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  16
+PCin:  17
+Numero de ciclos:    50
+Clock: 0
+Instrucao completa: 00110010
+Opcode: 001
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000010 =>   2
+Registrador A ->           3: 00111100 =>  60
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  16
+PCin:  17
+Numero de ciclos:    51
+Clock: 1
+Instrucao completa: 01011100
+Opcode: 010
+Reg1: 11
+Reg2: 10
+Endereco: 11100
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 10	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 11
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000010 =>   2
+Registrador A ->           3: 00111100 =>  60
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  17
+PCin:  18
+Numero de ciclos:    52
+Clock: 0
+Instrucao completa: 01011100
+Opcode: 010
+Reg1: 11
+Reg2: 10
+Endereco: 11100
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 10	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 11
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000010 =>   2
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  17
+PCin:  15
+Numero de ciclos:    53
+Clock: 1
+Instrucao completa: 10110010
+Opcode: 101
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 1	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000010 =>   2
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  15
+PCin:  15
+Numero de ciclos:    54
+Clock: 0
+Instrucao completa: 10110010
+Opcode: 101
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 1	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000010 =>   2
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  15
+PCin:  16
+Numero de ciclos:    55
+Clock: 1
+Instrucao completa: 00110010
+Opcode: 001
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000010 =>   2
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  16
+PCin:  17
+Numero de ciclos:    56
+Clock: 0
+Instrucao completa: 00110010
+Opcode: 001
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  16
+PCin:  17
+Numero de ciclos:    57
+Clock: 1
+Instrucao completa: 01011100
+Opcode: 010
+Reg1: 11
+Reg2: 10
+Endereco: 11100
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 10	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 11
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  17
+PCin:  18
+Numero de ciclos:    58
+Clock: 0
+Instrucao completa: 01011100
+Opcode: 010
+Reg1: 11
+Reg2: 10
+Endereco: 11100
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 1	isSend: 0	isBranch: 0	ULAOp: 10	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 11
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  17
+PCin:  18
+Numero de ciclos:    59
+Clock: 1
+Instrucao completa: 10110010
+Opcode: 101
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 1	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  18
+PCin:  19
+Numero de ciclos:    60
+Clock: 0
+Instrucao completa: 10110010
+Opcode: 101
+Reg1: 10
+Reg2: 01
+Endereco: 10010
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 1	RegWrite: 0	isSend: 0	isBranch: 1	ULAOp: 01	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 10
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  18
+PCin:  19
+Numero de ciclos:    61
+Clock: 1
+Instrucao completa: 11000000
+Opcode: 110
+Reg1: 00
+Reg2: 00
+Endereco: 00000
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 0	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  18
+PCin:  19
+Numero de ciclos:    62
+Clock: 0
+Instrucao completa: 11000000
+Opcode: 110
+Reg1: 00
+Reg2: 00
+Endereco: 00000
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 0	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  18
+PCin:  19
+Numero de ciclos:    63
+Clock: 1
+Instrucao completa: 11000000
+Opcode: 110
+Reg1: 00
+Reg2: 00
+Endereco: 00000
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 0	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  18
+PCin:  19
+Numero de ciclos:    64
+Clock: 0
+Instrucao completa: 11000000
+Opcode: 110
+Reg1: 00
+Reg2: 00
+Endereco: 00000
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 0	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  18
+PCin:  19
+Numero de ciclos:    65
+Clock: 1
+Instrucao completa: 11000000
+Opcode: 110
+Reg1: 00
+Reg2: 00
+Endereco: 00000
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 0	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  18
+PCin:  19
+Numero de ciclos:    66
+Clock: 0
+Instrucao completa: 11000000
+Opcode: 110
+Reg1: 00
+Reg2: 00
+Endereco: 00000
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 0	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  18
+PCin:  19
+Numero de ciclos:    67
+Clock: 1
+Instrucao completa: 11000000
+Opcode: 110
+Reg1: 00
+Reg2: 00
+Endereco: 00000
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 0	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  18
+PCin:  19
+Numero de ciclos:    68
+Clock: 0
+Instrucao completa: 11000000
+Opcode: 110
+Reg1: 00
+Reg2: 00
+Endereco: 00000
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 0	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111
+
+
+Program Counter:  18
+PCin:  19
+Numero de ciclos:    69
+Clock: 1
+Instrucao completa: 11000000
+Opcode: 110
+Reg1: 00
+Reg2: 00
+Endereco: 00000
+Bit Zero: 0
+Sinais de Controle
+PCWrite: 0	RegWrite: 0	isSend: 0	isBranch: 0	ULAOp: 00	MemWrite: 0	MemRead: 0	RegMemWrite: 0
+Saidas das Portas AND
+Seleciona o registrador de escrita: 0
+Saidas dos MUXS
+Seleciona o registrador de escrita: 00
+$mem: 00000001
+Registrador A ->           0: 00000000 =>   0
+Registrador A ->           1: 00000001 =>   1
+Registrador A ->           2: 00000001 =>   1
+Registrador A ->           3: 01111000 => 120
+Registrador B ->           0: 00000000
+Registrador B ->           1: 00000001
+Registrador B ->           2: 00000000
+Registrador B ->           3: 00001111

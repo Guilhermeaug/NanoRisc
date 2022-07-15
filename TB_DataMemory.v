@@ -1,7 +1,7 @@
 module DataMemoryTestbench;
 
   reg clock;
-  reg [7:0] address;
+  reg [3:0] address;
   reg [7:0] writeData;
 
   wire [7:0] dataOut;

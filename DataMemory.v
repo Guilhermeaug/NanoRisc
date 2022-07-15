@@ -1,6 +1,6 @@
 module DataMemory (
     input wire clock,
-    input wire [7:0] address,
+    input wire [3:0] address,
     input wire [7:0] writeData,
     output wire [7:0] dataOut,
 
@@ -10,6 +10,12 @@ module DataMemory (
 
   reg [7:0] data[30:0];
   reg [7:0] current;
+
+  initial begin
+    data[0] = 1;
+    data[1] = 15;
+    data[2] = 5;
+  end
 
   always @(negedge clock) //leitura
     begin

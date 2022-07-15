@@ -7,6 +7,10 @@ module ProgramCounter (
 
   reg [7:0] progamCounter;
 
+  initial begin
+    progamCounter = 0;
+  end
+
   always @(posedge clock) //escrita
     begin
     if (PCWrite) begin

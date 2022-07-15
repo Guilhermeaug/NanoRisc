@@ -32,14 +32,23 @@ module RegistersBank (
         registersA[writeReg] = writeData;
       end
     end
+  end
 
+  always @(negedge clock or memWrite) begin
     if (RegMemWrite) begin
       registersA[1] = memWrite;
     end
   end
 
   initial begin
-    registersA[0] = 0; // $zero
+    registersA[0] = 0;
+    registersA[1] = 0;
+    registersA[2] = 0;
+    registersA[3] = 0;
+    registersB[0] = 0;
+    registersB[1] = 0;
+    registersB[2] = 0;
+    registersB[3] = 0;
   end
 
   assign data1   = registersA[readReg1];

@@ -14,7 +14,7 @@ module InstructionMemory (
 
   // nao haverá escrita na memoria, pois o codigo a ser executado será carregado previamente na memoria.
   initial begin
-    $readmemb("instructions.mem", memory, 0, 17);
+    $readmemb("../instructions.mem", memory, 0, 18);
   end
 
   assign outData = instruction;

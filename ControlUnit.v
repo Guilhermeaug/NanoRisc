@@ -12,13 +12,6 @@ module ControlUnit (
 
   initial begin
     PCWrite = 1;
-    RegWrite = 0;
-    isSend = 0;
-    isBranch = 0;
-    ULAOp = 0;
-    MemWrite = 0;
-    MemRead = 0;
-    RegMemWrite = 0;
   end
 
   always @(opcode) begin
