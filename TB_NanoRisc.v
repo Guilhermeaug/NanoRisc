@@ -81,6 +81,8 @@ module NanoRiscTestbench;
         $display("Registrador B -> %d: %b", i, nRisc.registerBank.registersB[i]);
       end
 
+      $display("Resultado Final salvo na memoria => Posicao 5 da memoria de dados: %b", dataMemory.data[5]);
+
       $display("\n");
 
       cycleCounter = cycleCounter + 1;

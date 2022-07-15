@@ -45,7 +45,7 @@ module NanoRisc (
   wire [7:0] selectedData, selectedSend, writeData;
 
   // Adder
-  wire [7:0] PCoutPlus1;
+  wire [7:0] PCoutPlus1;    
 
   ProgramCounter programCounter (
       clock,
