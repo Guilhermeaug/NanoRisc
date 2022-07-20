@@ -1,6 +1,8 @@
 
-Responsáveis: 
+Responsáveis:
+ 
 **Guilherme Augusto de Oliveira**
+
 **Pedro Veloso Inacio de Oliveira** 
 
 O presente repositório se trata de um projeto desenvolvido como componente obrigatório para o curso de Laboratório de Arquitetura e Organização de Computaodores I do CEFETMG.
